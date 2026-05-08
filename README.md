@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
+🔭 I’m currently working on ui/ux<br>👯 I’m looking to collaborate on frontent related rpojects<br>🤝 I’m looking for help with react  <br>🌱 I’m currently learning full stack<br>
 
 
 ## 🌐 Socials:
